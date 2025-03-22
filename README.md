@@ -20,6 +20,7 @@ Reporistory to acquire resouces on the GCP platform via terraform
 ## Setup
 
 1. Load the credentials
+
    a. export the credentials as an variable ```GOOGLE_CREDENTIALS```
 
     ```
